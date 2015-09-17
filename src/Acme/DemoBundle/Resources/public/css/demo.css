@@ -1,0 +1,13 @@
+.page{
+    background:#eeeeee;
+}
+.page__hero-unit{
+    background:#a3ca5f;
+    margin-top:20px;
+}
+.page__hero-unit h2{
+    color:#fff;
+}
+.navbar--external{
+    font-size:.9em;
+}
