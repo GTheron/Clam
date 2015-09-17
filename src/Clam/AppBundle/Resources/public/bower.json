@@ -1,0 +1,17 @@
+{
+  "name": "clam",
+  "version": "0.0.0",
+  "homepage": "https://github.com/GTheron/Clam",
+  "authors": [
+    "Gabriel Théron <gabriel.theron90@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ]
+}

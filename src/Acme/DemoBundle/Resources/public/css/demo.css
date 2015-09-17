@@ -5,8 +5,15 @@
     background:#a3ca5f;
     margin-top:20px;
 }
-.page__hero-unit h2{
-    color:#fff;
+    .page__hero-unit h2{
+        color:#fff;
+    }
+.page__nav{
+    margin-top:40px;
+}
+
+.page__main{
+    margin-top: 110px;
 }
 .navbar--external{
     font-size:.9em;

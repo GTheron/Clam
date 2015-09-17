@@ -1,3 +1,7 @@
+clam_app:
+    resource: "@ClamAppBundle/Resources/config/routing.yml"
+    prefix:   /
+
 # AcmeDemoBundle routes (to be removed)
 _demo:
     resource: "@AcmeDemoBundle/Resources/config/routing.yml"

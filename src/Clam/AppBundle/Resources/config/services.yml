@@ -1,0 +1,4 @@
+services:
+#    clam_app.example:
+#        class: Clam\AppBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

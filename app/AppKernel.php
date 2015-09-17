@@ -39,6 +39,7 @@ class AppKernel extends Kernel
 
             // Remove this Bundle when using the SE as the basis for a new project
             new Acme\DemoBundle\AcmeDemoBundle(),
+            new Clam\AppBundle\ClamAppBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {
